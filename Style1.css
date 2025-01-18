@@ -1,0 +1,106 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: auto;
+    color: #333;
+}
+
+.n2 {
+    background-image: url('image/fuji3.jpg');
+    background-size: cover;
+    background-position: left;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.n3 {
+    background-image: url('image/temple1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.n4 {
+    background-image: url('image/Mecque1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.n5 {
+    background-image: url('image/GM3.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.n6 {
+    background-image: url('image/TM2.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.nav {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+}
+
+.D3 {
+    border: 3px solid rgb(96, 96, 96);
+    border-radius: 8px;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(255, 44, 2);
+}
+
+h1{
+    margin: 23px;
+    font-size: 2.5em;
+}
+
+#Pre {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.D1 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.D2 {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 20px;
+}
+
+.D4 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 50%;
+    height: auto;
+    margin: 0px auto;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+}
